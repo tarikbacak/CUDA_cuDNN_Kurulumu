@@ -27,7 +27,7 @@ Kurulumu kontrol etmek için aşağıdaki kod çalıştırılır.<br>
 )ten çıkan 32 haneli şifre kontrol edilir.<br>
 Bilgisayar yeniden başlatılır.
 ## cuDNN 8.3.2.44
-[cuDNN Dokümantasyon](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html)
+[cuDNN Dokümantasyon](https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html)<br>
 cuDNN [bu link](https://developer.nvidia.com/rdp/cudnn-download)ten kayıt olunduktan sonra indirilir.<br>
 cuDNN'in olduğu yerde terminal açılır ve aşağıdaki adımlar sırayla izlenir.<br>
 1. `sudo dpkg -i cudnn-local-repo-ubuntu1804-8.3.2.44_1.0-1_amd64.deb`<br>
